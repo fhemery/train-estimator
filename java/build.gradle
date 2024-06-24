@@ -27,7 +27,7 @@ jacocoTestReport {
     dependsOn test // tests are required to run before generating the report
 }
 jacoco {
-    toolVersion = "0.8.8"
+    toolVersion = "0.8.11"
 }
 
 pitest {
